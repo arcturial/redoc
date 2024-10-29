@@ -1,7 +1,7 @@
 {
   "name": "redoc",
   "version": "2.2.0",
-  "description": "ReDoc",
+  "description": "Redoc",
   "repository": {
     "type": "git",
     "url": "git://github.com/Redocly/redoc"
